@@ -8,7 +8,7 @@ https://colab.research.google.com/github/RadyaSRN/road-objects-detection/blob/ma
 https://wandb.ai/radyasrn-mipt/CV-spring-2025/reports/CV-spring-2025-road-objects-detection--VmlldzoxNDIxMDgxMg)
 
 # Road objects detection
-Training detection models (**RetinaNet and SSD**) to detect road objects, then applying a model to **real world traffic video from Moscow**.
+Training detection models (**[RetinaNet](https://docs.pytorch.org/vision/main/models/generated/torchvision.models.detection.retinanet_resnet50_fpn_v2.html) and [SSD](https://docs.pytorch.org/vision/main/models/generated/torchvision.models.detection.ssd300_vgg16.html)**) to detect road objects, then applying a model to **real world traffic video from Moscow**.
 
 ![road-objects-detection-20fps](images/road-objects-detection-20fps.gif)
 
